@@ -1,6 +1,6 @@
-# Habits
+# My Habits
 
-## Projeto NLW Setup Rocketseat
+## Projeto para agenda e registro de hábitos diários
 
 * HTML
 * CSS
